@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwewamubanga17" alt="mwewamubanga17" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development and the Back-end**
+- 🔭 I’m currently working on **Projects that Implement Data Science and Machine Learning**
 
 - 🌱 I’m currently learning **Java, Data Science and Machine Learning**
 
 - 📫 How to reach me **mwewamubanga27@gmail.com**
 
-- ⚡ Fun fact **I'm the biggest Chelsea fc fan you'll ever meet**
+- ⚡ Fun fact **I can get things done regardless of how little time I have to prepare**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
