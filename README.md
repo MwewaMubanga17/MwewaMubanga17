@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development and the Back-end**
 
-- 🌱 I’m currently learning **Java and cybersecurity**
+- 🌱 I’m currently learning **Java, Data Science and Machine Learning**
 
 - 📫 How to reach me **mwewamubanga27@gmail.com**
 
